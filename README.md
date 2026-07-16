@@ -111,7 +111,7 @@ python "modules/Input & Output Handling/scripts/argparse_options.py" --help
 ## Repository Statistics
 
 - Module directories: **3**
-- Script files: **27**
+- Script files: **33**
 - Current focus: **standardizing module quality and coverage**
 
 ## Contribution Guide
